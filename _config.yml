@@ -20,8 +20,9 @@ url: https://riverhousebelfast.co.uk
 googlemaps: https://www.google.com/maps/dir//River+House+48-60+High+St/@54.600485,-5.9964596,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4861090aab6d02d3:0x2fe7716f8d70ed18!2m2!1d-5.92642!2d54.6004058
 
 
-gems:
+plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Navigation
 navigation:
@@ -34,7 +35,7 @@ navigation:
   - title: Location
     url: /location/
   - title: Clockwise
-    url: /clockwise/
+    url: https://work-clockwise.com/
   - title: Contact us
     url: /contact/
   # - title: Downloads
