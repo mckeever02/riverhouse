@@ -4,7 +4,7 @@ markdown: redcarpet
 highlighter: rouge # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
-email: rpittaway@castleforgepartners.com
+email: jbeckett@castleforgepartners.com
 
 cc_emails: nmillar@castleforgepartners.com,chelsea@riverhousebelfast.co.uk,rachel.mcadam@workclockwise.co.uk,rachael.oreilly@workclockwise.co.uk
 
@@ -59,19 +59,19 @@ floorspace:
     sqm: 106
     sqf: 1,140
   - floor: Ground Floor Unit 4 - LEASED
-    sqm: 
-    sqf: 
+    sqm:
+    sqf:
   - floor: Ground Floor Unit 5
     sqm: 120
     sqf: 1,292
 
 offices:
-  - floor: 1st Floor - Clockwise Cafe & Reception	 
-    sqm: 
-    sqf: 
+  - floor: 1st Floor - Clockwise Cafe & Reception
+    sqm:
+    sqf:
   - floor: 2nd Floor - Clockwise Roof Terrace
-    sqm: 
-    sqf: 
+    sqm:
+    sqf:
   - floor: 3rd Floor - Clockwise Serviced Office
     sqm: 550
     sqf: 6,000
@@ -103,10 +103,10 @@ offices:
     sqm: 550
     sqf: 6,000
   - floor: 13th Floor - LEASED
-    sqm: 
+    sqm:
     sqf:
   - floor: 14th Floor - LEASED
-    sqm: 
+    sqm:
     sqf:
 
 downloads:
